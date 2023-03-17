@@ -18,7 +18,7 @@ Série de 3 vídeos que traz um desafio proposto pela OneBitCode em seu canal do
 <br>
 
 <p align="center">
-  <img alt="projeto Habits" src="https://github.com/gutoayres/nlw-setup/blob/main/.github/preview.jpg" width="100%">
+  <img alt="Tips Calculator" src="https://github.com/gutoayres/tips-calculator/blob/main/.github/preview.png" width="100%">
 </p>
  
 ## 🚀 Tecnologias
@@ -31,18 +31,18 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habits é um app para ajudar a rastrear os hábitos.
+O calculador de gorjetas serve para facilitar a divisão da conta de gorjeta entre os amigos que tomaram aquela gelada 🍻❕
 
-- [Visite o projeto online](https://gutoayres.github.io/nlw-setup)
+- [Visite o projeto online](https://gutoayres.github.io/tips-calculator/)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o desafio do projeto através [DESSE LINK](https://www.youtube.com/watch?v=rt5vLqNz6KQ&list=PLoEbtSeXP3rafAXb2aCsxUKFGUaffVz5F&index=18).
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT.
+Esse projeto está sob a licença GFMA.
 
 ---
 
-Feito com ♥ by Guto Ayres :wave: [Conheça nosso canal!](https://www.youtube.com/@OneBitCode)
+Feito com ♥ by Guto Ayres :wave: [Conheça o canal da One Bit Code!](https://www.youtube.com/@OneBitCode)
